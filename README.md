@@ -1,4 +1,4 @@
-# pywechat🥇?
+# pywechat🥇
 ![image](https://github.com/Hello-Mr-Crab/pywechat/blob/main/pics/wechat.png)
 ## 🍬🍬微信RPA工具,现支持4.1+部分功能具体使用方法见：
 
